@@ -1,16 +1,5 @@
 # gausjordan
 
-A new Flutter project.
+Aplikasi Gauss-Jordan merupakan aplikasi sederhana yang dikembangkan dengan tujuan untuk mempermudah menentukan penyelesaian dalam Sistem Persamaan Linear untuk matriks berordo 3x3 .
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
